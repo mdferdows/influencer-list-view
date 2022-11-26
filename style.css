@@ -1,0 +1,35 @@
+/* .hero{
+    height: 100px;
+} */
+
+
+.banner{
+    background-image: url('./img/slider1.jpg');
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.colorA{
+    color: #F75469;
+}
+.colorB{
+    color: #FF6436;
+}
+.colorC{
+    color: #F8635E;
+}
+.colorD{
+    color: #F75269;
+}
+.colorE{
+    background: #CF294C;
+    color: #fff;
+}
+.colorE:hover{
+    background: #F75469;
+    color: #fff;
+}
+.colorF{
+    color: #FF593E;
+}
